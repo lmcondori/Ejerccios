@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Taxi()
+comment1.params=valorMatricula
+comment1.target=void\ setMatricula(java.lang.String)
+comment2.params=valorDistrito
+comment2.target=void\ setDistrito(java.lang.String)
+comment3.params=valorTipoMotor
+comment3.target=void\ setTipoMotor(int)
+comment4.params=
+comment4.target=java.lang.String\ getMatricula()
+comment5.params=
+comment5.target=java.lang.String\ getDistrito()
+comment6.params=
+comment6.target=int\ getTipoMotor()
+numComments=7
